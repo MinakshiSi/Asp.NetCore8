@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "2TI2ofPdZ9UGisfLf+NJ6NXVt9HSops/abbNtOb4+0k=",
+  "Source": "Weather.Web",
+  "BasePath": "_content/Weather.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Weather.Web\\wwwroot",
+      "Source": "Weather.Web",
+      "ContentRoot": "D:\\Net Core\\UdemyDotNetCore\\Weather\\Weather.Web\\wwwroot\\",
+      "BasePath": "_content/Weather.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Net Core\\UdemyDotNetCore\\Weather\\Weather.Web\\wwwroot\\css\\StyleSheet.css",
+      "SourceId": "Weather.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Net Core\\UdemyDotNetCore\\Weather\\Weather.Web\\wwwroot\\",
+      "BasePath": "_content/Weather.Web",
+      "RelativePath": "css/StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\StyleSheet.css"
+    }
+  ]
+}

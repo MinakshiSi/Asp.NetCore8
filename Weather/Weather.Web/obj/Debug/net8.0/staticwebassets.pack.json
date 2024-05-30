@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Net Core\\UdemyDotNetCore\\Weather\\Weather.Web\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Weather.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Weather.Web.props",
+      "PackagePath": "build\\Weather.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Weather.Web.props",
+      "PackagePath": "buildMultiTargeting\\Weather.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Weather.Web.props",
+      "PackagePath": "buildTransitive\\Weather.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

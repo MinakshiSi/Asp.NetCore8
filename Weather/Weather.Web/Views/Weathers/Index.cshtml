@@ -1,0 +1,15 @@
+﻿@model IEnumerable<CityWeather>
+<h1>Weather</h1>
+<div>
+    <table>
+        <tr>
+            @foreach(CityWeather city in @Model)
+            {
+                <td>@city.CityName</td>
+                <td>@city.DateAndTime</td>
+                <td>@city.TemperatureFahrenheit</td>
+                <td>@Html.ActionLink("Details", "Index")</td>
+            }           
+        </tr>
+    </table>
+</div>
